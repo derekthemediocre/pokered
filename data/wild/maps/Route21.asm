@@ -18,9 +18,9 @@ Route21WildMons:
 	db 15, TENTACOOL
 	db  5, TENTACOOL
 	db 10, TENTACOOL
-	db 15, TENTACOOL
-	db 20, TENTACOOL
-	db 30, TENTACOOL
-	db 35, TENTACOOL
-	db 40, TENTACOOL
+	db 15, SQUIRTLE
+	db 20, SQUIRTLE
+	db 30, SQUIRTLE
+	db 35, SQUIRTLE
+	db 40, SQUIRTLE
 	end_water_wildmons
